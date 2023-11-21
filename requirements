@@ -1,1 +1,1 @@
-pyecharts = pyecharts 2.0.4
+pyecharts >= 1.9"
